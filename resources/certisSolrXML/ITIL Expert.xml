@@ -1,0 +1,19 @@
+<add><doc><field name="id">ITIL Expert</field><field name="type">Certification</field><field name="term"  boost="6.0">service computing</field><field name="term"  boost="6.0">digital printing</field><field name="term"  boost="1.0">education</field><field name="term"  boost="6.0">information technology</field><field name="term"  boost="1.0">training</field><field name="term"  boost="6.0">telematics</field><field name="term"  boost="6.0">printing</field><field name="term"  boost="1.0">vocational training</field><field name="term"  boost="6.0">teleprinting</field><field name="term"  boost="6.0">professional communication</field><field name="term"  boost="6.0">universal serial bus</field><field name="term"  boost="1.0">management training</field><field name="term"  boost="6.0">information representation</field><field name="term"  boost="1.0">on the job training</field><field name="term"  boost="1.0">industrial training</field><field name="competence_s">A.1 IS and Business Strategy Alignment</field>
+<field name="competence_g">A.2 Service Level Management</field>
+<field name="competence_s">A.4 Product / Service Planning</field>
+<field name="competence_p">B.2 Component Integration</field>
+<field name="competence_g">C.1 User Support</field>
+<field name="competence_g">C.2 Change Support</field>
+<field name="competence_g">C.3 Service Delivery</field>
+<field name="competence_g">C.4 Problem Management</field>
+<field name="competence_p">D.10 Information and Knowledge Management</field>
+<field name="competence_s">D.2 ICT Quality Strategy Development</field>
+<field name="competence_s">D.8 Contract Management</field>
+<field name="competence_p">D.9 Personnel Development</field>
+<field name="competence_p">E.3 Risk Management</field>
+<field name="competence_s">E.4 Relationship Management</field>
+<field name="competence_p">E.5 Process Improvement</field>
+<field name="competence_">E.6 ICT Quality Management</field>
+<field name="competence_p">E.7 Business Change Management</field>
+<field name="competence_p">E.8 Information Security Management</field>
+<field name="ict_profile">service manager</field><field name="ict_profile">ict operations manager</field></doc></add>

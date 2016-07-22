@@ -1,0 +1,38 @@
+<add>
+  <doc>
+    <field name="id">Linux Essentials Professional Development Certificate (PDC)</field>
+    <field name="type">Certification</field>
+    <field name="term" boost="1.0">invasive software</field>
+    <field name="term" boost="1.0">public key</field>
+    <field name="term" boost="1.0">firewalls</field>
+    <field name="term" boost="2.0">industry applications</field>
+    <field name="term" boost="1.0">intrusion detection</field>
+    <field name="term" boost="1.0">random number generation</field>
+    <field name="term" boost="1.0">authorization</field>
+    <field name="term" boost="1.0">open source hardware</field>
+    <field name="term" boost="2.0">security</field>
+    <field name="term" boost="1.0">computers and information processing</field>
+    <field name="term" boost="1.0">encryption</field>
+    <field name="term" boost="1.0">computer crime</field>
+    <field name="term" boost="1.0">ciphers</field>
+    <field name="term" boost="1.0">access control</field>
+    <field name="term" boost="1.0">hardware</field>
+    <field name="term" boost="1.0">authentication</field>
+    <field name="term" boost="1.0">identity management systems</field>
+    <field name="term" boost="1.0">data security</field>
+    <field name="term" boost="1.0">information security</field>
+    <field name="term" boost="1.0">cryptography</field>
+    <field name="term" boost="2.0">permission</field>
+    <field name="term" boost="2.0">computer security</field>
+    <field name="term" boost="1.0">message authentication</field>
+    <field name="term" boost="1.0">computer hacking</field>
+    <field name="term" boost="1.0">digital signatures</field>
+    <field name="competence_p">B.2 Component Integration</field>
+    <field name="competence_">B.3 Testing</field>
+    <field name="competence_s">B.4 Solution Deployment</field>
+    <field name="competence_s">C.1 User Support</field>
+    <field name="competence_">C.4 Problem Management</field>
+    <field name="competence_s">E.8 Information Security Management</field>
+    <field name="ict_profile">systems administrator</field>
+  </doc>
+</add>

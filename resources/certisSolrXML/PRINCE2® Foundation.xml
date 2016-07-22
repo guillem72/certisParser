@@ -1,0 +1,7 @@
+<add><doc><field name="id">PRINCE2® Foundation</field><field name="type">Certification</field><field name="term"  boost="2.0">professional communication</field><field name="term"  boost="1.0">project management</field><field name="term"  boost="1.0">business</field><field name="term"  boost="1.0">management</field><field name="term"  boost="2.0">context</field><field name="term"  boost="1.0">engineering management</field><field name="competence_s">A.4 Product / Service Planning</field>
+<field name="competence_p">E.2 Project and Portfolio Management</field>
+<field name="competence_s">E.3 Risk Management</field>
+<field name="competence_">E.4 Relationship Management</field>
+<field name="competence_s">E.6 ICT Quality Management</field>
+<field name="competence_">E.7 Business Change Management</field>
+<field name="ict_profile">project manager</field></doc></add>

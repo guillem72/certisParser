@@ -1,0 +1,35 @@
+<add>
+  <doc>
+    <field name="id">Administering Windows Server 2012 (70-411)</field>
+    <field name="type">Certification</field>
+    <field name="term" boost="1.0">design methodology</field>
+    <field name="term" boost="1.0">client-server systems</field>
+    <field name="term" boost="1.0">art</field>
+    <field name="term" boost="1.0">service computing</field>
+    <field name="term" boost="1.0">digital printing</field>
+    <field name="term" boost="1.0">information technology</field>
+    <field name="term" boost="1.0">graphics</field>
+    <field name="term" boost="1.0">telematics</field>
+    <field name="term" boost="1.0">distributed computing</field>
+    <field name="term" boost="1.0">printing</field>
+    <field name="term" boost="1.0">teleprinting</field>
+    <field name="term" boost="1.0">professional communication</field>
+    <field name="term" boost="1.0">universal serial bus</field>
+    <field name="term" boost="1.0">software architecture</field>
+    <field name="term" boost="1.0">information representation</field>
+    <field name="term" boost="1.0">computers and information processing</field>
+    <field name="term" boost="1.0">servers</field>
+    <field name="term" boost="1.0">electronic design automation and methodology</field>
+    <field name="term" boost="1.0">software engineering</field>
+    <field name="competence_">B.1 Application Development</field>
+    <field name="competence_g">B.2 Component Integration</field>
+    <field name="competence_s">B.3 Testing</field>
+    <field name="competence_g">B.4 Solution Deployment</field>
+    <field name="competence_s">C.1 User Support</field>
+    <field name="competence_p">C.3 Service Delivery</field>
+    <field name="competence_s">C.4 Problem Management</field>
+    <field name="competence_s">E.8 Information Security Management</field>
+    <field name="ict_profile">network specialist</field>
+    <field name="ict_profile">systems administrator</field>
+  </doc>
+</add>
