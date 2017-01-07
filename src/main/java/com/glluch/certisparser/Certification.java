@@ -1,8 +1,12 @@
 package com.glluch.certisparser;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
+import com.glluch.utils.Filename;
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.math.NumberUtils;
 
 /**
@@ -27,6 +31,15 @@ public class Certification {
         this.ict_profiles = ict_profiles;
     }
 
+    public void textWriter(String path) throws IOException{
+      String name=this.getTitle().replace(" ", "_").replace("+", "plus");
+      name=name.replace("(", "").replace(")","");
+      name=name.replace("`","");
+      name=Filename.name2uglyName(this.getTitle());
+      
+      
+      FileUtils.writeStringToFile(new File(path+name+".txt"), this.getSummary(), "utf8");
+    }
     /**
      * Return a simple representation of the Certification
      * @return an string form by the title and the summary.

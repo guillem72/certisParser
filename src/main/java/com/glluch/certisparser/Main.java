@@ -24,7 +24,7 @@ public class Main {
     public static void main(String[] args) throws IOException, ParseException {
         //doit();
         //jreader1();
-        jreader();
+        jreaderTxtWriter();
 
     }
     
@@ -33,15 +33,14 @@ public class Main {
      * @throws IOException
      * @throws ParseException
      */
-    public static void jreader() throws IOException, ParseException{
+    public static void jreaderTxtWriter() throws IOException, ParseException{
         ArrayList<Certification> certs=JReader.readDir();
-        Writer w=new Writer();
-        w.cert2SolrXML("resources/certisSolrXML/", certs);
-        /*
+        
         for (Certification cert:certs){
             System.out.println(cert.brief2String());
+            cert.textWriter("resources/certisTxt/");
         }
-        */
+        
     }
 
     /**
